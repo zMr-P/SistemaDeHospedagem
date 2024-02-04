@@ -12,3 +12,4 @@ C:\Projetos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\net7.0\refint\Sist
 C:\Projetos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\net7.0\SistemaDeHospedagem.pdb
 C:\Projetos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\net7.0\SistemaDeHospedagem.genruntimeconfig.cache
 C:\Projetos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\net7.0\ref\SistemaDeHospedagem.dll
+C:\Projetos\SistemaDeHospedagem\SistemaDeHospedagem\obj\Debug\net7.0\SistemaDeHospedagem.sourcelink.json
